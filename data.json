@@ -4,21 +4,21 @@
       {
 
         "id": 0,
-        "project_name": "Techdegree project 1",
+        "project_name": "A Random Quote Generator",
         "description": "A Random Quote Generator",
         "technologies ": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
         "github_link ": "https://github.com/alecanova/techdegree-project-1.git",
-        "image_urls": ["static/images/rsz_1screenshot-proj1.jpg", "static/images/rsz_2screenshot-proj1.jpg",
-                      "static/images/rsz_3screenshot-proj1.jpg", "static/images/landing-page-project1.jpg" ] 
+        "image_urls": ["/static/images/rsz_1screenshot-proj1.jpg", "/routesstatic/images/rsz_2screenshot-proj1.jpg",
+                      "/static/images/rsz_3screenshot-proj1.jpg", "/static/images/landing-page-project1.jpg" ] 
 
       },
 
       {
 
         "id": 1,
-        "project_name": "Techdegree Project 2",
-        "description": "A Random Quote Generator",
+        "project_name": "List Pagination and filtering",
+        "description": "",
         "technologies ": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
         "github_link ": "https://github.com/alecanova/techdegree-project-2.git",
@@ -29,7 +29,7 @@
       {
 
         "id": 2,
-        "project_name": "Techdegree Project 3",
+        "project_name": "Interactive Form",
         "description": "Interactive Form",
         "technologies ": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
@@ -41,9 +41,9 @@
       {
 
         "id": 3,
-        "project_name": "Techdegree Project 4",
+        "project_name": "OOP Game Show App",
         "description": "OOP Game Show App",
-        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "technologies ": [ "HTML", "CSS", "JavaScript", "Object Oriented JavaScript"],
         "live_link": "",
         "github_link ": "https://github.com/alecanova/techdegree-project-4.git",
         "image_urls": [] 
@@ -53,9 +53,10 @@
       {
 
         "id": 4,
-        "project_name": "Techdegree project 5",
+        "project_name": "Public API Requests",
         "description": "Public API Requests",
-        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "technologies ": [ "HTML", "CSS", "JavaScript", "Asynchronous JavaScript",
+          "API Request", "JSON"],
         "live_link": "",
         "github_link ": "https://github.com/alecanova/techdegree-project-5.git",
         "image_urls": [] 
