@@ -9,7 +9,8 @@
         "technologies ": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
         "github_link ": "https://github.com/alecanova/techdegree-project-1.git",
-        "image_urls": [] 
+        "image_urls": ["static/images/rsz_1screenshot-proj1.jpg", "static/images/rsz_2screenshot-proj1.jpg",
+                      "static/images/rsz_3screenshot-proj1.jpg", "static/images/landing-page-project1.jpg" ] 
 
       },
 
