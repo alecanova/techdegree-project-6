@@ -1,0 +1,66 @@
+{
+    "projects": [
+
+      {
+
+        "id": 0,
+        "project_name": "Techdegree project 1",
+        "description": "A Random Quote Generator",
+        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "live_link": "",
+        "github_link ": "https://github.com/alecanova/techdegree-project-1.git",
+        "image_urls": [] 
+
+      },
+
+      {
+
+        "id": 1,
+        "project_name": "Techdegree Project 2",
+        "description": "A Random Quote Generator",
+        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "live_link": "",
+        "github_link ": "https://github.com/alecanova/techdegree-project-2.git",
+        "image_urls": [] 
+
+      },
+
+      {
+
+        "id": 2,
+        "project_name": "Techdegree Project 3",
+        "description": "Interactive Form",
+        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "live_link": "",
+        "github_link ": "https://github.com/alecanova/techdegree-project-3.git",
+        "image_urls": [] 
+
+      },
+
+      {
+
+        "id": 3,
+        "project_name": "Techdegree Project 4",
+        "description": "OOP Game Show App",
+        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "live_link": "",
+        "github_link ": "https://github.com/alecanova/techdegree-project-4.git",
+        "image_urls": [] 
+
+      },
+
+      {
+
+        "id": 4,
+        "project_name": "Techdegree project 5",
+        "description": "Public API Requests",
+        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "live_link": "",
+        "github_link ": "https://github.com/alecanova/techdegree-project-5.git",
+        "image_urls": [] 
+
+      }
+
+    ]
+
+}
