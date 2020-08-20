@@ -3,21 +3,21 @@ const router = express.Router();
 const { projects } = require('../data.json');
 
 /* Set the 'index' route */
-router.get('/', function(req, res) {
+router.get('/', (req, res) => {
 
     res.render('index', { projects });
 
 });
 
 /* Set the 'about' route */
-router.get('/about', function(req, res) {
+router.get('/about', (req, res) => {
 
     res.render('about');
 
 });
 
 /* Set the 'project' route */
-router.get('/project/:id', function(req, res, next) {
+router.get('/project/:id', (req, res, next) => {
 
     const projectId = req.params.id;
     const project = projects.find( ({ id }) => id === +projectId );

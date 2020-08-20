@@ -11,7 +11,7 @@ const app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
 
-/* Static middleware for serving static files */
+/*  Require static assets from public folder */
 app.use('/static', express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
