@@ -23,8 +23,16 @@ router.get('/project/:id', (req, res, next) => {
     const project = projects.find( ({ id }) => id === +projectId );
 
     // Pass the project data to the 'project' template
-    res.render('project', { project });  // remember to add if cond error 404
+    if(project) {
 
+        res.render('project', { project });
+
+    } else {
+
+        res.sendStatus(404);
+
+    }
+   
 });
 
 

@@ -6,11 +6,11 @@
         "id": 0,
         "project_name": "A Random Quote Generator",
         "description": " This is an app that displays random famous quotes each time a button is clicked.",
-        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "technologies": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
-        "github_link ": "https://github.com/alecanova/techdegree-project-1.git",
+        "github_link": "https://github.com/alecanova/techdegree-project-1.git",
         "image_urls": {
-          "cover": "/static/images/cover-project1.jpg",
+          "thumbnail": "/static/images/cover-project1.jpg",
           "firstImage": "/static/images/project1a.jpg",
           "secondImage": "/static/images/project1b.jpg",
           "thirdImage": "/static/images/project1c.jpg"
@@ -23,11 +23,11 @@
         "id": 1,
         "project_name": "List Pagination and filtering",
         "description": "",
-        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "technologies": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
-        "github_link ": "https://github.com/alecanova/techdegree-project-2.git",
+        "github_link": "https://github.com/alecanova/techdegree-project-2.git",
         "image_urls": {
-          "cover": "/static/images/cover-project2.jpg",
+          "thumbnail": "/static/images/cover-project2.jpg",
           "firstImage": "/static/images/project2a.jpg",
           "secondImage": "/static/images/project2b.jpg",
           "thirdImage": "/static/images/project2c.jpg"
@@ -40,11 +40,11 @@
         "id": 2,
         "project_name": "Interactive Form",
         "description": "Interactive Form",
-        "technologies ": [ "HTML", "CSS", "JavaScript"],
+        "technologies": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
-        "github_link ": "https://github.com/alecanova/techdegree-project-3.git",
+        "github_link": "https://github.com/alecanova/techdegree-project-3.git",
         "image_urls": {
-          "cover": "/static/images/cover-project2.jpg",
+          "thumbnail": "/static/images/cover-project2.jpg",
           "firstImage": "/static/images/project2a.jpg",
           "secondImage": "/static/images/project2b.jpg",
           "thirdImage": "/static/images/project2c.jpg"
@@ -57,11 +57,11 @@
         "id": 3,
         "project_name": "OOP Game Show App",
         "description": "OOP Game Show App",
-        "technologies ": [ "HTML", "CSS", "JavaScript", "Object Oriented JavaScript"],
+        "technologies": [ "HTML", "CSS", "JavaScript", "Object Oriented JavaScript"],
         "live_link": "",
-        "github_link ": "https://github.com/alecanova/techdegree-project-4.git",
+        "github_link": "https://github.com/alecanova/techdegree-project-4.git",
         "image_urls": {
-          "cover": "/static/images/cover-project2.jpg",
+          "thumbnail": "/static/images/cover-project2.jpg",
           "firstImage": "/static/images/project2a.jpg",
           "secondImage": "/static/images/project2b.jpg",
           "thirdImage": "/static/images/project2c.jpg"
@@ -74,12 +74,12 @@
         "id": 4,
         "project_name": "Public API Requests",
         "description": "Public API Requests",
-        "technologies ": [ "HTML", "CSS", "JavaScript", "Asynchronous JavaScript",
+        "technologies": [ "HTML", "CSS", "JavaScript", "Asynchronous JavaScript",
           "API Request", "JSON"],
         "live_link": "",
-        "github_link ": "https://github.com/alecanova/techdegree-project-5.git",
+        "github_link": "https://github.com/alecanova/techdegree-project-5.git",
         "image_urls": {
-          "cover": "/static/images/cover-project2.jpg",
+          "thumbnail": "/static/images/cover-project2.jpg",
           "firstImage": "/static/images/project2a.jpg",
           "secondImage": "/static/images/project2b.jpg",
           "thirdImage": "/static/images/project2c.jpg"

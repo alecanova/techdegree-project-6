@@ -18,8 +18,8 @@ block content
       each project in projects
         .cell
           a(href=`/project/${project.id}`)
-            img.thumbnail(src=`${project.image_urls.cover}`)
-            h5= project.project_name
+            img.thumbnail(src=`${project.image_urls.thumbnail}`)
+            h5 #{project.project_name}
       //- Use a combination of interpolation and template literals as needed to dynamically generate the the routes in the href, as well as the img's src and the projects title.
       //- Here's what the Pug for each project example should look like. 
         .cell
