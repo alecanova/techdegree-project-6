@@ -5,7 +5,7 @@
 
         "id": 0,
         "project_name": "A Random Quote Generator",
-        "description": " This is an app that displays random famous quotes each time a button is clicked.",
+        "description": " This is an app that displays random famous quotes each time a button is clicked",
         "technologies": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
         "github_link": "https://github.com/alecanova/techdegree-project-1.git",
@@ -21,7 +21,7 @@
       {
 
         "id": 1,
-        "project_name": "List Pagination and filtering",
+        "project_name": "List Pagination and Filtering",
         "description": "",
         "technologies": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
@@ -44,10 +44,10 @@
         "live_link": "",
         "github_link": "https://github.com/alecanova/techdegree-project-3.git",
         "image_urls": {
-          "thumbnail": "/static/images/cover-project2.jpg",
-          "firstImage": "/static/images/project2a.jpg",
-          "secondImage": "/static/images/project2b.jpg",
-          "thirdImage": "/static/images/project2c.jpg"
+          "thumbnail": "/static/images/cover-project3.jpg",
+          "firstImage": "/static/images/project3a.jpg",
+          "secondImage": "/static/images/project3b.jpg",
+          "thirdImage": "/static/images/project3c.jpg"
         }
 
       },
@@ -61,10 +61,10 @@
         "live_link": "",
         "github_link": "https://github.com/alecanova/techdegree-project-4.git",
         "image_urls": {
-          "thumbnail": "/static/images/cover-project2.jpg",
-          "firstImage": "/static/images/project2a.jpg",
-          "secondImage": "/static/images/project2b.jpg",
-          "thirdImage": "/static/images/project2c.jpg"
+          "thumbnail": "/static/images/cover-project4.jpg",
+          "firstImage": "/static/images/project4a.jpg",
+          "secondImage": "/static/images/project4c.jpg",
+          "thirdImage": "/static/images/project4b.jpg"
         }
 
       },
@@ -79,10 +79,10 @@
         "live_link": "",
         "github_link": "https://github.com/alecanova/techdegree-project-5.git",
         "image_urls": {
-          "thumbnail": "/static/images/cover-project2.jpg",
-          "firstImage": "/static/images/project2a.jpg",
-          "secondImage": "/static/images/project2b.jpg",
-          "thirdImage": "/static/images/project2c.jpg"
+          "thumbnail": "/static/images/cover-project5.jpg",
+          "firstImage": "/static/images/project5a.jpg",
+          "secondImage": "/static/images/project5b.jpg",
+          "thirdImage": "/static/images/project5c.jpg"
         }
 
       }
