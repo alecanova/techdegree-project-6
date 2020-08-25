@@ -5,7 +5,7 @@
 
         "id": 0,
         "project_name": "A Random Quote Generator",
-        "description": " This is an app that displays random famous quotes each time a button is clicked",
+        "description": " This is an app that displays random famous quotes each time a button is clicked.",
         "technologies": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
         "github_link": "https://github.com/alecanova/techdegree-project-1.git",
@@ -22,7 +22,7 @@
 
         "id": 1,
         "project_name": "List Pagination and Filtering",
-        "description": "",
+        "description": "In this project, I used a common web development technique known as 'pagination' to enhance the usability and the user experience of a web page.",
         "technologies": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
         "github_link": "https://github.com/alecanova/techdegree-project-2.git",
@@ -39,7 +39,7 @@
 
         "id": 2,
         "project_name": "Interactive Form",
-        "description": "Interactive Form",
+        "description": "This form demonstrates using JavaScript for client side validation without relying on any of the built in browser validations.",
         "technologies": [ "HTML", "CSS", "JavaScript"],
         "live_link": "",
         "github_link": "https://github.com/alecanova/techdegree-project-3.git",
@@ -56,7 +56,7 @@
 
         "id": 3,
         "project_name": "OOP Game Show App",
-        "description": "OOP Game Show App",
+        "description": "This is a browser-based, word guessing game: 'Phrase Hunter'. I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard.",
         "technologies": [ "HTML", "CSS", "JavaScript", "Object Oriented JavaScript"],
         "live_link": "",
         "github_link": "https://github.com/alecanova/techdegree-project-4.git",
@@ -73,7 +73,7 @@
 
         "id": 4,
         "project_name": "Public API Requests",
-        "description": "Public API Requests",
+        "description": "Using JavaScript, I created an employee directory by communicating with a third-party API (Application Programming Interface).",
         "technologies": [ "HTML", "CSS", "JavaScript", "Asynchronous JavaScript",
           "API Request", "JSON"],
         "live_link": "",

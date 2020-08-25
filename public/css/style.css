@@ -1,3 +1,8 @@
+body {
+  background: rgb(253, 253, 253);
+  
+
+}
 
 h1,h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
@@ -49,18 +54,18 @@ a:hover{
 .image{
   display: inline-block;
   max-width: 100%;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   border: solid 4px #fefefe;
-  border-radius: 0;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
+  border-radius: 25px;
 }
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  background: rgb(19, 18, 18);
   color: #fff;
-  box-shadow: none !important;
+  
 }
 
   .portfolio-me p{
@@ -114,6 +119,7 @@ a:hover{
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    border-radius: 25px;
   }
 
   .portfolio-index a{
