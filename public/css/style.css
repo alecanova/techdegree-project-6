@@ -1,15 +1,18 @@
-body {
-  background: rgb(253, 253, 253);
-  
 
+body{
+  background: linear-gradient(90deg, rgba(255,248,187,1) 0%, rgba(255,255,255,1) 50%, rgba(255,248,187,1) 100%);
 }
 
-h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+h1,h6{
+  font-family: 'Indie Flower', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h2,h3,h4,h5,p,li{
+  font-family: 'Arima Madurai', 'Merriweather', serif;
 }
 
   h5{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Indie Flower', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
@@ -37,6 +40,7 @@ h1,h2,h3,h4,h5,p{
 
 .button{
   background-color: #333;
+  border-radius: 25px;
 }
 
 .button:hover{
@@ -55,8 +59,8 @@ a:hover{
   display: inline-block;
   max-width: 100%;
   margin-bottom: 2rem;
-  border: solid 4px #fefefe;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
+  border: solid 4px rgb(224, 224, 202);
+  border-color: rgb(253, 253, 137);
   line-height: 0;
   border-radius: 25px;
 }
@@ -65,7 +69,6 @@ a:hover{
   padding: 20px;
   background: rgb(19, 18, 18);
   color: #fff;
-  
 }
 
   .portfolio-me p{
@@ -74,7 +77,7 @@ a:hover{
   }
 
   .portfolio-me a{
-    font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Arima Madurai', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
     color: #555;
     font-size: 13px;
@@ -94,7 +97,7 @@ a:hover{
 }
 
  .portfolio-breadcrumb a{
-   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   font-family: 'Arima Madurai', 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
    font-weight: 600;
    font-size: 13px;
    letter-spacing: 2.5px;
@@ -147,10 +150,15 @@ a:hover{
 }
 
 .portfolio-project li{
-  font-size: 13px;
+  font-size: 14px;
   color: #444;
 }
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+.thumbnail{
+  border-radius: 25px;
+  border-color: rgb(253, 253, 137);
 }
